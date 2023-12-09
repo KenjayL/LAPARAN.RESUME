@@ -194,7 +194,7 @@
 				<p><span>Father's Name:</span> Gomer P. Laparan</p>
 				<p><span>Mother's Name:</span> Eleneta B. Laparan</p>
 				<p><span>Religion:</span> Roman Catholic</p>
-				<p>Language:</span> Bisaya, Tagalog, English</p>
+				<p>Language: Bisaya, Tagalog, English</p>
 		<hr class="side-line">
 				<h2>Contact Information:</h2>
 				<p><span>📧:</span> kenjaylaparan@gamil.com</p>
